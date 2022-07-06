@@ -1,0 +1,62 @@
+{
+  "code": 200,
+  "msg": "",
+  "data": {
+    "company_list":[
+    {
+      "id": "1",
+      "e_apply_num": "",
+      "e_declaration_period": "",
+      "e_declaration_date": "",
+      "e_quarter_add": "",
+      "e_socialcredit_code": "",
+      "e_company_name": "",
+      "e_register_location": "",
+      "e_establishment_date": "",
+      "e_recruits_num": "",
+      "e_recruits_price": "",
+      "e_online_processing": "",
+      "e_company_social_security": "",
+      "e_company_type": "",
+      "e_legal_person": "",
+      "e_ID": "",
+      "e_manager": "",
+      "e_manager_phone": "",
+      "e_company_worktel": "",
+      "e_bank": "",
+      "e_bank_company": "",
+      "e_bank_num": "",
+      "e_success_count": "",
+      "e_success_price": "",
+      "e_cum_count": "",
+      "e_eco_price_count": "",
+      "e_cum_price": "",
+      "e_eco_price": "",
+      "e_remarks": "",
+      "e_price_type": "",
+      "e_first_social_count": "",
+      "e_second_social_count": "",
+      "e_is_xwCompany": "",
+      "e_robot_result": "",
+      "e_detail": "",
+      "e_person_result": "",
+      "e_instructions": "",
+      "e_identify_person": "",
+      "e_get_person_state": "",
+      "e_isPush": "",
+      "e_addr": "",
+      "e_street_name": "",
+      "e_create_time": "",
+      "e_update_time": ""
+    },
+    {
+
+    }
+  ],
+    "page": {
+      "pageNum": 1,
+      "pageSize": 10,
+      "total": 10
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "code": 200,
+  "msg": "",
+  "data": {
+    "company_list":[
+    {
+      "e_declaration_date": "",# 申报日期
+      "e_apply_num": "",#申领编号
+      "e_socialcredit_code": "",# 统一信用代码
+      "e_company_name": "",  //单位名称
+      "e_establishment_date": "",# 创业成立日期
+      "e_company_type": "",# 单位类型,
+
+      "e_recruits_num": "",# 本期招用人数
+      "e_recruits_price": "",# 本期招用补贴金额,
+
+      "e_success_count": "",# 本期成功人数,
+      "e_success_price": "",# 本期成功补贴金额,
+
+      "e_declaration_period": "",
+
+      "e_quarter_add": "",
+
+
+      "e_register_location": "",
+
+
+
+      "e_online_processing": "",
+      "e_company_social_security": "",
+
+      "e_legal_person": "",
+      "e_ID": "",
+      "e_manager": "",
+      "e_manager_phone": "",
+      "e_company_worktel": "",
+      "e_bank": "",
+      "e_bank_company": "",
+      "e_bank_num": "",
+
+
+      "e_cum_count": "",
+      "e_eco_price_count": "",
+      "e_cum_price": "",
+      "e_eco_price": "",
+      "e_remarks": "",
+      "e_price_type": "",
+      "e_first_social_count": "",
+      "e_second_social_count": "",
+      "e_is_xwCompany": "",
+      "e_robot_result": "",
+      "e_detail": "",
+      "e_person_result": "",
+      "e_instructions": "",
+      "e_identify_person": "",
+      "e_get_person_state": "",
+      "e_isPush": "",
+      "e_addr": "",
+      "e_street_name": "",
+      "e_create_time": "",
+      "e_update_time": ""
+    },
+    {
+
+    }
+  ],
+    "page": {
+      "pageNum": 1,
+      "pageSize": 10,
+      "total": 10
+    }
+  }
+}
